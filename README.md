@@ -1,5 +1,3 @@
-# pcaptools
-Tools for pcap (network capture) analysis
 
 #pcap_to_graph
 
@@ -16,4 +14,5 @@ Inside the script you can define colours and shapes you wan't to use.
 There are also two files needed, which however can be empty:
 
 goodip.txt (IP addresses like internal ones etc.)
+
 badip.txt (external or otherwise intersting addresses)
