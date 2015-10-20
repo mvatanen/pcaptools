@@ -15,4 +15,4 @@ There are also two files needed, which however can be empty:
 
 goodip.txt (IP addresses like internal ones etc.)
 
-badip.txt (external or otherwise intersting addresses)
+badip.txt (external or otherwise interesting addresses)
