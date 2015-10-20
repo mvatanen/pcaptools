@@ -9,7 +9,7 @@ tshark -r yourpcap.pcap -q -z conv,tcp  >> TCP_streams.txt     or
 
 tshark -r yourpcap.pcap -q -z conv,up >> UDP_streams.txt
 
-Inside the script you can define colours and shapes you wan't to use.
+Inside the script you can define colours and shapes you wan't to use based on destination port, destination ip or source ip.
 
 There are also two files needed, which however can be empty:
 
