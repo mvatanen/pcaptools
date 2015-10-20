@@ -1,7 +1,7 @@
 
 #pcap_to_graph
 
-pcap_to_graph_tcp.sh and pcap_to_graph_udp.sh are simple scripts that generates a picture from tshark output.
+pcap_to_graph_tcp.sh and pcap_to_graph_udp.sh are simple scripts that generates a coloured picture from tshark output.
 
 Commands to produce needed output from pcap file is:
 
