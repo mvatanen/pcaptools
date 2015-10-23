@@ -27,7 +27,7 @@ elif [ "$DSTPORT" == "123" ]
 then
 colour="green"
 else
-colour="white"
+colour="black"
 fi
 
 #Destination IP graphical definitions
