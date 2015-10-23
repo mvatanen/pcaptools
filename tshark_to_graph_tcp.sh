@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#tshark -r yourpcap.pcap -q -z conv,up >> TCP_streams.txt
 
 cat TCP_streams.txt | grep -v -e [a-zA-Z]| grep -v \= >> tcpsessions.tmp
 
