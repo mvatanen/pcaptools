@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/mvatanen
 #tcpdump -nn -r your.pcap "tcp[13] == 2" >>synprobes.txt
 
 while IFS= read -r line
