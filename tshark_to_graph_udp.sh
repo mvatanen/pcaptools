@@ -1,6 +1,6 @@
 #!/bin/bash
 #https://github.com/mvatanen
-#tshark -r yourpcap.pcap -q -z conv,up >> UDP_streams.txt
+#tshark -r yourpcap.pcap -n -q -z conv,udp >> UDP_streams.txt
 
 cat UDP_streams.txt | grep -v -e [a-zA-Z]| grep -v \= >> udpsessions.tmp
 
