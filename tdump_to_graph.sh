@@ -45,8 +45,8 @@ then
 shape2="ellipse"
 colour3="yellow"
 else 
-shape="box"
-colour2="cyan"
+shape2"box"
+colour3="cyan"
 fi
 
 
